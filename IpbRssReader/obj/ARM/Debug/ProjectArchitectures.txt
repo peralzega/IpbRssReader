@@ -1,0 +1,1 @@
+C:\Users\peral\OneDrive\Dokumen\Visual Studio 2015\Projects\IpbRssReader\IpbRssReader\IpbRssReader.csproj;arm
